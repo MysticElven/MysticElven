@@ -4,7 +4,7 @@
 
 - TheOdinProject Full Stack JavaScript
 - Devsnest FullStack + Solana
-- Traversy Media Crash Course
+- Traversy Media Web Development Crash Course
 
 ### 📫 How to reach me:
 ### 💬 Ask me about:
