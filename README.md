@@ -37,4 +37,4 @@
 
 <hr>
 
-Thanks for checking in! You're the best!
+### THANKS FOR CHECKING IN! YOU'RE THE BEST!
