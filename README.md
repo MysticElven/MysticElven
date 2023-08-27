@@ -25,4 +25,13 @@
 
 ### 💬 Ask me about:
 
+- Web Development 
+- Favorite Books
+- Favorite Anime
+- Video Games
+- Instrumental Music while relaxing
+
 ### 😄 Fun fact:
+
+- Programming has over 700 languages.
+
