@@ -37,4 +37,4 @@
 
 <hr>
 
-<strong> Thanks for checking in! You're the best! </strong>
+Thanks for checking in! You're the best!
