@@ -35,3 +35,4 @@
 
 - Programming has over 700 languages.
 
+<strong> Thanks for checking in! You're the best! </strong>
