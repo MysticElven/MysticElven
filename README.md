@@ -2,7 +2,7 @@
 
 ### 🌱 I’m currently learning:
 
-- TheOdinProject Full Stack JavaScript
+- TheOdinProject Full Stack Ruby on Rails
 - Devsnest FullStack + Solana
 - Traversy Media Web Development Crash Course
 
