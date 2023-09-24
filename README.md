@@ -4,6 +4,7 @@
 
 - TheOdinProject Full Stack Ruby on Rails
 - Devsnest FullStack + Solana
+- Zuitt FullStack Bootcamp
 - Traversy Media Web Development Crash Course
 
 ### 📖 Interest and Hobbies:
