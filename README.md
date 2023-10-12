@@ -3,9 +3,7 @@
 ### 🌱 I’m currently learning:
 
 - TheOdinProject Full Stack JavaScript
-- Devsnest FullStack + Solana
 - Zuitt FullStack Bootcamp
-- Traversy Media Web Development Crash Course
 
 ### 📖 Interest and Hobbies:
 
