@@ -15,7 +15,7 @@
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/aubrey-lizardo-637013279" target="_blank"><img src="img/social/linkedin.svg" alt="Br3y" height="30" width="40"></a>
+<a href="https://www.linkedin.com/in/aubrey-lizardo6/" target="_blank"><img src="img/social/linkedin.svg" alt="Br3y" height="30" width="40"></a>
 <a href="https://github.com/Br3y" target="_blank"><img src="img/social/github.svg" alt="Br3y" height="30" width="40"></a>
 <a href="https://mailto:lizardoaubrey.software@gmail.com" target="_blank"><img src="img/social/gmail.svg" alt="Br3y" height="30" width="40"></a>
 <a href="https://discord.com/users/1032701226271391805" target="_blank"><img src="img/social/discord.svg" alt="Br3y" height="30" width="40"></a>
