@@ -1,7 +1,5 @@
 ### Hi there, I'm Aubrey Llanes Lizardo 👋
 
--
-
 ### 📖 Interests and Hobbies:
 
 - Learning / Reading
