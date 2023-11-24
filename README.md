@@ -1,15 +1,8 @@
 ### Hi there, I'm Aubrey Llanes Lizardo 👋
 
-### Personal Portfolio Link
+-
 
-- https://br3y.netlify.app/
-
-### 🌱 I’m currently learning:
-
-- TheOdinProject Full Stack JavaScript
-- Zuitt FullStack Bootcamp
-
-### 📖 Interest and Hobbies:
+### 📖 Interests and Hobbies:
 
 - Learning / Reading
 - Anime
