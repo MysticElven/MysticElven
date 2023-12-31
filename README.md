@@ -1,6 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Br3y" />
 
-<h1 align="center">Hi there, I'm Aubrey Llanes Lizardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > </h1>
+<h1 align="center">Hi, I'm Aubrey Llanes Lizardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > </h1>
+
+<h3 align="center">Full-Stack Developer & BS in Information Technology Graduate </h3>
+
+I aim to contribute to innovative web solutions, reflecting my dedication to staying current and making a meaningful impact in the tech industry
 
 ## 📖 Interests and Hobbies:
 
