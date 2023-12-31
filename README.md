@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Br3y" />
 <br>
 
@@ -44,12 +43,12 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="MongoDB" />
       <br>NodeJS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
@@ -64,12 +63,16 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
       <br>Rails
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite">       
+      <br>SQLite
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS">
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML">
+      <br>HTML
     </td>
   </tr>
 </table>
