@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=br3y" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Br3y" />
 
 ### Hi there, I'm Aubrey Llanes Lizardo 👋
 
