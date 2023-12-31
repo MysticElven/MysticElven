@@ -13,7 +13,7 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 - Committing Village88 Training Bootcamp
 - Deep Learning Full Stack Development
 - Daily and More Git Contributions
-- Building more Projects
+- Building more Complex Projects
 
 ## 📫 How to reach me:
 
