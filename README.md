@@ -9,7 +9,7 @@
 I aim to contribute to innovative web solutions, reflecting my dedication to staying current and making a meaningful impact in the tech industry
 <br>
 
-## 📖 2024 New Year Goals :
+## 📖 2024 New Year Goals
 
 - Completing Odin Project Full Stack Ruby on Rails
 - Committing Village88 Training Bootcamp
@@ -17,7 +17,7 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 - Daily and More Git Contributions
 - Building more Complex Projects
 
-## 📫 How to reach me:
+## 📫 Connect with me
 
 <div align=center>
 
@@ -77,18 +77,19 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
   </tr>
 </table>
 
-## Status:<div align="center">
+## 📈 Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=br3y&show_icons=true&locale=en" alt="br3y" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=br3y&" alt="br3y" width="478"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=br3y&show_icons=true&locale=en" alt="br3y" width="390"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=br3y&" alt="br3y" width="415"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=br3y&show_icons=true&locale=en&layout=compact" alt="br3y" />
 </div>
 
-## 😄 Fun fact:
+## 🌱 Contributions
 
-- Programming has over 700 languages.
-
-<hr>
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=br3y&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
 ### THANKS FOR CHECKING IN! YOU'RE THE BEST!
+<hr>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
