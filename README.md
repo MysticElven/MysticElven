@@ -77,13 +77,12 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
   </tr>
 </table>
 
-## 💬 Ask me about:
+## Status:<div align="center">
 
-- Web Development 
-- Favorite Books
-- Favorite Anime
-- Video Games
-- Instrumental Music while relaxing
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=br3y&show_icons=true&locale=en" alt="br3y" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=br3y&" alt="br3y" width="478"/>
+</div>
 
 ## 😄 Fun fact:
 
