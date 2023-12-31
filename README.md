@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Br3y" />
 
-### Hi there, I'm Aubrey Llanes Lizardo 👋
-
-### 📖 Interests and Hobbies:
+<h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" >Hi there, I'm Aubrey Llanes Lizardo 👋</h1>
+---
+## 📖 Interests and Hobbies:
 
 - Learning / Reading
 - Anime
@@ -10,7 +10,7 @@
 - Video Games
 - Music
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/aubrey-lizardo6/" target="_blank"><img src="img/social/linkedin.svg" alt="Br3y" height="30" width="40"></a>
 <a href="https://github.com/Br3y" target="_blank"><img src="img/social/github.svg" alt="Br3y" height="30" width="40"></a>
@@ -63,7 +63,8 @@
     </td>
   </tr>
 </table>
-### 💬 Ask me about:
+
+## 💬 Ask me about:
 
 - Web Development 
 - Favorite Books
@@ -71,10 +72,10 @@
 - Video Games
 - Instrumental Music while relaxing
 
-### 😄 Fun fact:
+## 😄 Fun fact:
 
 - Programming has over 700 languages.
 
 <hr>
 
-### THANKS FOR CHECKING IN! YOU'RE THE BEST!
+## THANKS FOR CHECKING IN! YOU'RE THE BEST!
