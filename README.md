@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=br3y" />
+
 ### Hi there, I'm Aubrey Llanes Lizardo 👋
 
 ### 📖 Interests and Hobbies:
