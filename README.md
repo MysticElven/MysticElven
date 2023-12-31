@@ -5,14 +5,15 @@
 <h3 align="center">Full-Stack Developer & BS in Information Technology Graduate </h3>
 
 I aim to contribute to innovative web solutions, reflecting my dedication to staying current and making a meaningful impact in the tech industry
+<br>
 
-## 📖 Interests and Hobbies:
+## 📖 2024 New Year Goals :
 
-- Learning / Reading
-- Anime
-- Coding
-- Video Games
-- Music
+- Completing Odin Project Full Stack Ruby on Rails
+- Committing Village88 Training Bootcamp
+- Deep Learning Full Stack Development
+- Daily and More Git Contributions
+- Building more Projects
 
 ## 📫 How to reach me:
 
