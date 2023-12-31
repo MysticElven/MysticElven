@@ -1,4 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Br3y" />
+<br>
 
 <h1 align="center">Hi, I'm Aubrey Llanes Lizardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > </h1>
 
@@ -86,3 +89,4 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 <hr>
 
 ### THANKS FOR CHECKING IN! YOU'RE THE BEST!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
