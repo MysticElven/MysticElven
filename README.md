@@ -16,6 +16,7 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 - Deep Learning Full Stack Development
 - Daily and More Git Contributions
 - Building more Complex Projects
+- 1 year Commit Streaks
 
 ## 📫 Connect with me
 
