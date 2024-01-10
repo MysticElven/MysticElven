@@ -12,11 +12,9 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 ## 📖 2024 New Year Goals
 
 - Completing Odin Project Full Stack Ruby on Rails
-- Committing Village88 Training Bootcamp
-- Deep Learning Full Stack Development
-- Daily and More Git Contributions
+- Starting and Finishing FullStackOpen
 - Building more Complex Projects
-- 1000+ Days Commit Streak
+- More Git Contributions
 
 ## 📫 Connect with me
 
@@ -82,7 +80,6 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=br3y&show_icons=true&locale=en" alt="br3y" width="390"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=br3y&" alt="br3y" width="415"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=br3y&show_icons=true&locale=en&layout=compact" alt="br3y" />
 </div>
 
