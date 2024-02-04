@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi, I'm Aubrey Llanes Lizardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > </h1>
 
-<h3 align="center">Full-Stack Developer & BS in Information Technology Graduate </h3>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFF&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Webapp+Developer;Bachelor+of+Science+in+Information+Technology" />
+</h3>
 
 I aim to contribute to innovative web solutions, reflecting my dedication to staying current and making a meaningful impact in the tech industry
 <br>
