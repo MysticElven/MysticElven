@@ -13,7 +13,8 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 
 ## 📖 2024 New Year Goals
 
-- Completing Odin Project Full Stack Ruby on Rails and FullStackOpen
+- Completing Odin Project Full Stack Ruby on Rails
+- Learning and Completing FullStackOpen
 - Building more Complex Projects
 - More Git Contributions
 
