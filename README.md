@@ -63,7 +63,7 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
       <br>Rails
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite">       
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL">       
       <br>SQLite
     </td>
     <td align="center" width="90">
