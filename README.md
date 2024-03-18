@@ -15,7 +15,6 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 
 - Completing Odin Project Full Stack Ruby on Rails
 - Building more Complex Projects
-- Completing FullStackOpen
 - More Git Contributions
 
 ## 📫 Connect with me
