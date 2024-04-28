@@ -80,7 +80,6 @@ I aim to contribute to innovative web solutions, reflecting my dedication to sta
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=br3y&show_icons=true&locale=en" alt="br3y" width="390"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=br3y&hide_border=false" alt="br3y commitment" width="415" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=br3y&show_icons=true&locale=en&layout=compact" alt="br3y" width="350" />
 </div>
 
