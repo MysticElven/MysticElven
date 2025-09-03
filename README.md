@@ -8,13 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=FFF&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Webapp+Developer;Bachelor+of+Science+in+Information+Technology" />
 </h3>
 
-I aim to contribute to innovative web solutions, reflecting my dedication to staying current and making a meaningful impact in the tech industry
+<p align="center">
+Motivated and adaptable professional with a background in property management, software development, and technical support, now pursuing an MBA to expand my business and analytical skills. Known for problem solving, attention to detail, and the ability to quickly learn new tools and industries. Eager to leverage my diverse experience and education in junior or entry-level roles across business, technology, or operations.
+</p>
+
 <br>
-
-## 📖 2024 New Year Goals
-
-- Building more Complex Projects
-- More Git Contributions
 
 ## 📫 Connect with me
 
